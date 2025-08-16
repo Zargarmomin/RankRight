@@ -1,0 +1,2 @@
+filename,years_experience,education,skill_match_ratio,missing_skills,experience_score,education_score,semantic_score,final_score
+resume1.txt,4,Bachelor,0.75,"kubernetes, redis",1.0,0.7,0.0,0.805

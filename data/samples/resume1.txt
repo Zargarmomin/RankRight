@@ -1,0 +1,17 @@
+John Doe
+Email: john.doe@example.com | Phone: +1-555-123-4567
+
+Summary
+Backend developer with 4 years of experience building REST APIs and microservices.
+
+Skills
+Python, FastAPI, SQL, PostgreSQL, Docker, AWS, Git, Linux, CI/CD, Unit Testing
+
+Experience
+2021-2024: Backend Engineer at Acme Corp
+- Built FastAPI services with PostgreSQL
+- Wrote CI/CD pipelines with GitHub Actions
+- Deployed on AWS ECS
+
+Education
+B.Tech in Computer Science, 2019

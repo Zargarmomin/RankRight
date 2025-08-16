@@ -1,0 +1,11 @@
+weights:
+  skills: 0.55
+  experience: 0.25
+  education: 0.0
+  embedding: 0.20   # set to 0.1-0.3 after enabling embeddings
+thresholds:
+  min_final_score: 0.4
+education_levels:
+  bachelor: ["bachelor", "btech", "b.e.", "b.e", "b.sc", "b.s", "bca"]
+  master: ["master", "mtech", "m.e.", "m.sc", "m.s", "mca", "mba"]
+  phd: ["phd", "ph.d", "doctorate"]

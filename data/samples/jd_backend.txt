@@ -1,0 +1,5 @@
+We are looking for a Backend Engineer with 3+ years of experience.
+Must-have skills: Python, FastAPI, SQL, Docker, AWS.
+Good to have: CI/CD, Kubernetes, Redis.
+Responsibilities include building REST APIs, integrating databases, and writing tests.
+Education: Bachelor's or Master's in Computer Science or related field.

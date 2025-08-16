@@ -1,0 +1,17 @@
+Jane Smith
+Email: jane.smith@example.com | Phone: 9876543210
+
+Summary
+Software engineer with 2 years experience in data engineering and APIs.
+
+Skills
+Java, Spring Boot, MySQL, Docker, GCP, Airflow, Python (basic), Linux
+
+Experience
+2023-2024: Software Engineer at DataWorks
+- Built ETL jobs with Airflow
+- Managed MySQL schemas
+- Exposed REST APIs
+
+Education
+M.Sc in Information Technology, 2022

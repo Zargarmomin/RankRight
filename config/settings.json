@@ -1,0 +1,8 @@
+{
+  "weights": {
+    "skills": 0.6,
+    "experience": 0.25,
+    "education": 0.15,
+    "embedding": 0.0
+  }
+}
